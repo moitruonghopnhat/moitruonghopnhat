@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moitruonghopnhat.vercel.app/sitemap.xml
